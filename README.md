@@ -14,4 +14,4 @@ Finally, we tried to use Deep Learning to predict the grade of a recipe based on
 Created a streamlit app to see the results.
 
 For now only the neural network and the streamlit app are here.
-The reste will come soon.
+The rest will come soon.
